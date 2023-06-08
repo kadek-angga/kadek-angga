@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, Kadek Angga
+#### Backend Developer
+![Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm Kadek Angga from Bali, Indonesia, and love to learn code and doing programming
+
+Skills: EXPRESS JS / JS / HTML / CSS
 
 <!--
 **kadek-angga/kadek-angga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
