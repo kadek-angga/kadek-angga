@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kadek Angga</h1>
+<h1 align="center">Hi 👋, I'm I Made Angga Darma Putra</h1>
+<h2 align="center">You can just call me Angga</h2>
 <h3 align="center">A passionate backend developer from Indonesia, Bali</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadek-angga&label=Profile%20views&color=0e75b6&style=flat" alt="kadek-angga" /> </p>
